@@ -12,7 +12,8 @@ Discuss what factors should you consider while designing and implementing softwa
 
 *Points*
 
-***100 points possible***
+*100 points possible*
+
 
 <b>                     Plagiarism Detection using Text Similarity</b>
 
