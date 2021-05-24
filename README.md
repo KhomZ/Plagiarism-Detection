@@ -1,3 +1,19 @@
+<b>                     Assignment
+                        Due 10 June 2021 23:59</b>
+<b>                        Instructions</b>
+
+Discuss what factors should you consider while designing and implementing software to detect plagiarism and para phasing? Develop sample application* for your arguments and prepare a report. * note: Application is not necessarily of your own but you need to explain methodology properly.
+
+**My work**
+
+*Add work*
+
+*New*
+
+*Points*
+
+***100 points possible***
+
 <b>                     Plagiarism Detection using Text Similarity</b>
 
 This is a utility to check if 2 documents are plagiarized or not based on their similarity.
