@@ -78,7 +78,7 @@ Then the category of the most similar document will be displayed. If the categor
 
 Contributors:
 
-Thapa Magar Khom Raj (https://github.com/KhomZ)
-kyzen khom (https://github.com/ikhomkodes)
+Thapa Magar Khom Raj (https://github.com/KhomZ)<br>
+kyzen khom (https://github.com/ikhomkodes)<br>
 M.M. Arefin Zaman (https://github.com/murkho)<br>
 Imran Sayeed (https://github.com/Imran51)
